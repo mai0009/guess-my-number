@@ -1,4 +1,3 @@
-
 // Define variables
 let secretNumber, score, hiScore;
 const message = document.querySelector("h4");
